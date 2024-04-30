@@ -13,6 +13,8 @@ Notable Python libraries in Jupyter include NumPy, SciPy, Matplotlib, Statsmodel
 It will cover splitting up the training and testing datasets, as well as comparing different kinds of models.
 Visualizations are also present in the interactive Python notebooks. 
 
+Video Description of the project: https://youtu.be/kETdXaI2JZA
+
 
 Updates Log: <br>
 2024-04-26: Created ```grocerypriceanalysis``` repository <br>
