@@ -10,10 +10,14 @@ It will include data analysis, data visualization, and some supervised learning 
 The most notable supervised learning models include single and multiple linear regression.
 Notable Python libraries in Jupyter include NumPy, SciPy, Matplotlib, Statsmodels, Scikit-learn, Seaborn, and Pandas. 
 
+It will cover splitting up the training and testing datasets, as well as comparing different kinds of models.
+Visualizations are also present in the interactive Python notebooks. 
+
 
 Updates Log: <br>
 2024-04-26: Created ```grocerypriceanalysis``` repository <br>
 2024-04-27: Included Jupyter notebook and dataset CSV files <br>
 2024-04-28: Updated data files with respective FRED visuals and links <br>
+2024-04-29: Most up to date edits have been made<br>
 
 
